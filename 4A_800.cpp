@@ -4,7 +4,7 @@ int main()
 {
     int n;
     cin >> n;
-    if (n % 2 == 0)
+    if (n % 2 == 0 && n > 2)
     {
         cout << "YES\n";
     }
