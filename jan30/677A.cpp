@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    // input
     int n, h;
     cin >> n >> h;
     int width = 0;
